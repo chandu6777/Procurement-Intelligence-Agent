@@ -1,14 +1,60 @@
 # Procurement Intelligence Agent 🤖
 
-An intelligent procurement assistant that helps analyze and make decisions about equipment imports using real-time data, weather conditions, and currency exchange rates.
+A sophisticated AI-powered procurement assistant that leverages real-time data analysis, machine learning, and multiple APIs to make intelligent decisions about equipment imports. The system analyzes currency exchange rates, weather conditions, and procurement policies to provide comprehensive recommendations.
+
+## 📋 Table of Contents
+- [Features](#-features)
+- [System Architecture](#-system-architecture)
+- [Detailed Components](#-detailed-components)
+- [Installation Guide](#️-installation)
+- [Configuration](#-configuration)
+- [Usage Examples](#-usage-examples)
+- [API Reference](#-api-reference)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🌟 Features
 
-- **Real-time Currency Analysis**: Compares multiple currency exchange rates (USD, EUR, GBP, JPY, etc.) to find the best rates against INR
-- **Weather Impact Assessment**: Checks weather conditions at destination for potential shipping impacts
-- **PDF Policy Analysis**: Analyzes procurement policies from uploaded PDF documents
-- **Telegram Integration**: Sends automated alerts and analysis reports via Telegram
-- **Interactive Web Interface**: User-friendly web interface for uploading documents and getting analysis
+### 1. Currency Analysis System
+- **Multi-Currency Support**: 
+  - USD, EUR, GBP, JPY, AUD, CAD, CHF against INR
+  - Real-time exchange rate monitoring
+  - Best rate identification algorithm
+  - Cost saving calculations
+  - Historical rate trends
+
+### 2. Weather Intelligence
+- **Comprehensive Weather Analysis**:
+  - Real-time weather data retrieval
+  - Temperature impact assessment
+  - Humidity monitoring
+  - Wind conditions evaluation
+  - Weather-based shipping recommendations
+
+### 3. Document Processing
+- **PDF Analysis Capabilities**:
+  - Policy document parsing
+  - Key information extraction
+  - Compliance checking
+  - Automated summary generation
+  - Historical document comparison
+
+### 4. Communication System
+- **Telegram Integration**:
+  - Instant notifications
+  - Automated alerts
+  - Analysis reports
+  - Custom alert thresholds
+  - Interactive bot commands
+
+### 5. Web Interface
+- **User-Friendly Dashboard**:
+  - Real-time data visualization
+  - Interactive forms
+  - Document upload system
+  - Analysis results display
+  - Export capabilities
 
 ## 🚀 Demo
 
