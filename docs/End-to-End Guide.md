@@ -7,7 +7,7 @@ This guide walks you through the complete setup and usage of the Procurement Int
 ## 📸 Interface Screenshots
 
 ### Main Dashboard
-![Main Dashboard](images/dashboard.png)
+![Main Dashboard](images/img1.png)
 *The main interface where users can start new analyses and view results*
 
 ### Analysis Form
