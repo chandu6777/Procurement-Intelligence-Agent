@@ -4,6 +4,32 @@
 
 This guide walks you through the complete setup and usage of the Procurement Intelligence Agent system.
 
+## 📸 Interface Screenshots
+
+### Main Dashboard
+![Main Dashboard](images/dashboard.png)
+*The main interface where users can start new analyses and view results*
+
+### Analysis Form
+![Analysis Form](images/analysis-form.png)
+*Form for submitting new procurement analysis requests*
+
+### Currency Analysis Results
+![Currency Analysis](images/currency-analysis.png)
+*Real-time currency analysis and recommendations*
+
+### Weather Impact Assessment
+![Weather Report](images/weather-report.png)
+*Weather conditions and shipping impact analysis*
+
+### Telegram Bot Integration
+![Telegram Bot](images/telegram-bot.png)
+*Automated notifications and alerts via Telegram*
+
+### Policy Document Upload
+![PDF Upload](images/pdf-upload.png)
+*Interface for uploading and analyzing procurement policies*
+
 ## Table of Contents
 - [Initial Setup](#initial-setup)
 - [Configuration](#configuration)
