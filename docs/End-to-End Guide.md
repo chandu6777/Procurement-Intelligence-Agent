@@ -2,13 +2,12 @@
 
 # Procurement Intelligence Agent - End-to-End Guide 🚀
 
+![Procurement Intelligence Agent Dashboard](/docs/images/img1.png)
+*Main dashboard interface of the Procurement Intelligence Agent*
+
 This guide walks you through the complete setup and usage of the Procurement Intelligence Agent system.
 
 ## 📸 Interface Screenshots
-
-### Main Dashboard
-![Main Dashboard](/docs/images/img1.png)
-*The main interface where users can start new analyses and view results*
 
 ### Analysis Form
 ![Analysis Form](images/analysis-form.png)
